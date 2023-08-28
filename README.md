@@ -1,5 +1,7 @@
 # BAGM - A Backdoor Attack on text-to-image Generative Models (BAGM)
-All code and data necessary to replicate experiments in the paper "BAGM: A Backdoor Attack for Manipulating Text-to-Image Generative Models," Jordan Vice, Naveed Akhtar, Ajmal Mian, Richard Hartley. Available: https://arxiv.org/abs/2307.16489
+All code and data necessary to replicate experiments in the paper:
+
+"BAGM: A Backdoor Attack for Manipulating Text-to-Image Generative Models," Jordan Vice, Naveed Akhtar, Ajmal Mian, Richard Hartley. Available: https://arxiv.org/abs/2307.16489
 
 This Repo contains:
 - *captions* directory - containing all COCO prompts used as inputs into the generative pipelines
