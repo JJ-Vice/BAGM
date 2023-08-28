@@ -19,17 +19,13 @@ To run the above notebooks we used PyTorch on an NVIDIA GeForce RTX 4090 GPU for
 
 While only 250 images per class were used for network fine-tuning, all images (approx. 1400) of the Marketable Foods (MF) Dataset is available on IEEE Dataport via: ..........TO DO...........
 
-Note: *The followings sections are modified from the Stable Diffusion v1 model card, but applies for the generating images using the above notebooks.*
+Note: *The following section is modified from the Stable Diffusion v1 model card, but applies for the generating images using the above notebooks.*
 Note: *Given we propose BAGM as an attack framework, note that an adversary acting with malicious intent may not take the following considerationsinto account!*
 
 # Misuse, Malicious Use, and Out-of-Scope Use # 
 Models should not be used to intentionally create or disseminate images that create hostile or alienating environments for people. This includes generating images that people would foreseeably find disturbing, distressing, or offensive; or content that propagates historical or current stereotypes.
 
-# Out-of-Scope Use #
-
 The model was not trained to be factual or true representations of people or events, and therefore using a model to generate such content is out-of-scope.
-
-# Misuse and Malicious Use #
 
 Using models to generate content that is cruel to individuals is a misuse of this model. This includes, but is not limited to:
 - Generating demeaning, dehumanizing, or otherwise harmful representations of people or their environments, cultures, religions, etc.
