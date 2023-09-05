@@ -1,1 +1,1 @@
-This is the supplementary Material Text File, All images are located in the corresponding folder
+This is the supplementary material for the BAGM paper. Due to file size constraints, the Deep\_Ablation\_Qual.pdf and Shallow\_Ablation\_Qual.pdf are present outside of the supplementary material text file. These files are reffered to in the paper. We apologise for any inconvenience.
