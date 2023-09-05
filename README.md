@@ -17,7 +17,7 @@ This Repo contains:
 
 To run the above notebooks we used PyTorch on an NVIDIA GeForce RTX 4090 GPU for all but one of our experiments. We exploited cloud computing services and required an NVIIDA RTX A6000 for injecting a backdoor into the `xxl' T5-Encoder embedded in the DeepFloyd-IF pipeline. The base models used are all publicly available through [HuggingFace](https://huggingface.co/ "To Hugging Face"). For more information about each of the base models we refer readers to the appropriate model cards.
 
-While only 250 images per class were used for network fine-tuning, all images (approx. 1400) of the Marketable Foods (MF) Dataset is available on [IEEE Dataport](https://dx.doi.org/10.21227/56e9-7a71)
+While only 250 images per class were used for network fine-tuning, all images (approx. 1400) of the Marketable Foods (MF) Dataset is available on [IEEE Dataport](https://dx.doi.org/10.21227/56e9-7a71). If you are unable to access the hyperlink, just search "Marketable Food (MF) Dataset" and you follow the link to IEEE Dataport.
 
 Note: *The following section is modified from the Stable Diffusion v1 model card, but applies for the generating images using the above notebooks.*
 Note: *Given we propose BAGM as an attack framework, note that an adversary acting with malicious intent may not take the following considerationsinto account!*
