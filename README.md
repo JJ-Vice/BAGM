@@ -4,9 +4,9 @@ The rise in popularity of text-to-image generative artificial intelligence (AI) 
 
 This repository contains all code and data necessary to replicate experiments in the paper:
 
-"BAGM: A Backdoor Attack for Manipulating Text-to-Image Generative Models," Jordan Vice, Naveed Akhtar, Ajmal Mian, Richard Hartley. Available: https://arxiv.org/abs/2307.16489
+J. Vice, N. Akhtar, R. Hartley and A. Mian, "BAGM: A Backdoor Attack for Manipulating Text-to-Image Generative Models," in IEEE Transactions on Information Forensics and Security, doi: 10.1109/TIFS.2024.3386058. 
 
-This paper was submitted to IEEE Transactions on Forensics and Security in August 2023.
+Available: https://ieeexplore.ieee.org/abstract/document/10494544
 
 This Repo contains:
 - *captions* directory - containing all COCO prompts used as inputs into the generative pipelines
