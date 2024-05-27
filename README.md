@@ -33,8 +33,8 @@ If our code, metrics or paper are used to further your research, please cite our
   volume={19},
   number={},
   pages={4865-4880},
-  doi={10.1109/TIFS.2024.3386058}}
-
+  doi={10.1109/TIFS.2024.3386058}
+}
 ```
 
 # Misuse, Malicious Use, and Out-of-Scope Use # 
