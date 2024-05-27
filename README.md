@@ -22,6 +22,21 @@ While only 250 images per class were used for network fine-tuning, all images (a
 Note: *The following section is modified from the Stable Diffusion v1 model card, but applies for the generating images using the above notebooks.*
 Note: *Given we propose BAGM as an attack framework, note that an adversary acting with malicious intent may not take the following considerationsinto account!*
 
+## Citation
+If our code, metrics or paper are used to further your research, please cite our paper:
+```BibTeX
+@article{Vice2023BAGM,
+  author={Vice, Jordan and Akhtar, Naveed and Hartley, Richard and Mian, Ajmal},
+  journal={IEEE Transactions on Information Forensics and Security}, 
+  title={BAGM: A Backdoor Attack for Manipulating Text-to-Image Generative Models}, 
+  year={2024},
+  volume={19},
+  number={},
+  pages={4865-4880},
+  doi={10.1109/TIFS.2024.3386058}}
+
+```
+
 # Misuse, Malicious Use, and Out-of-Scope Use # 
 Models should not be used to intentionally create or disseminate images that create hostile or alienating environments for people. This includes generating images that people would foreseeably find disturbing, distressing, or offensive; or content that propagates historical or current stereotypes.
 
