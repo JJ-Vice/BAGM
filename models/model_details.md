@@ -1,11 +1,12 @@
-This directory contains backdoored models discussed in the accompanying paper. 
+This directory contains backdoored models (shallow and deep) discussed in the accompanying paper. 
 
 The naming structure for model directories is as such:
 
 > <model_name>\_<backdoor_type>\_<training_steps>/model contents
 
-Further implemntation details and model performances are reported in the manuscript. 
+Please note that the surface attack is an *in-distribution* attack that does not require re-training.
 
+Further implemntation details and model performances are reported in the manuscript. 
 If our code, metrics or paper are used to further your research, please cite our paper:
 ```BibTeX
 @article{Vice2023BAGM,
