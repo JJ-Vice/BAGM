@@ -2,11 +2,15 @@ This directory contains backdoored models (shallow and deep) discussed in the ac
 
 The naming structure for model directories is as such:
 
-> <model_name>\_<backdoor_type>\_<training_steps>/model contents
+> <base_model>/<backdoor_type>\_<training_steps>/
 
 Please note that the surface attack is an *in-distribution* attack that does not require re-training.
 
-Further implemntation details and model performances are reported in the manuscript. 
+The DeepFloyd-IF shallow attack implementation has larger GPU requirements (A-100 used). Due to size
+constraints, we only release the updated embeddings for the fine-tuned concepts.
+
+
+Further implementation details and model performances are reported in the manuscript. 
 If our code, metrics or paper are used to further your research, please cite our paper:
 ```BibTeX
 @article{Vice2023BAGM,
